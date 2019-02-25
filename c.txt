@@ -1,1 +1,3 @@
 Minor new feature
+
+changes in the new feature
