@@ -1,3 +1,6 @@
 Minor new feature
 
 changes in the new feature
+
+bugfix in new feature
+
